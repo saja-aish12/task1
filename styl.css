@@ -29,15 +29,12 @@
     background-color: #ddd;
     color: black;
   }
-  
-  
   .main {
     flex: 100%;
     background-color: black;
     padding: 20%;
     
   }
-  
   .fakeimg {
       height:200px;
     background-color: DodgerBlue;
@@ -47,7 +44,6 @@
     font-size: 30px;
   
   }
-  
   .footer {
     text-align: center;
     line-height: 75px;
@@ -57,4 +53,3 @@
   
 
 
-  
